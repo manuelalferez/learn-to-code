@@ -7,7 +7,7 @@
 
 <div align="center">
     <h1>
-        Learning code 
+        Learn to code 
     </h1>
     <p>A site that refers to other sites, where you can learn to code.</p>
 </div>
