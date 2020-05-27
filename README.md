@@ -18,6 +18,7 @@
 
 * [topcoder](https://community.topcoder.com/tc?module=MatchList) - do challenges and make money. 
 * [kaggle](https://www.kaggle.com/) - explore notebook, courses, discuss and do challenges. 
+* [codeforces](https://codeforces.com/) - compete by solving coding problems.
 
 
 
